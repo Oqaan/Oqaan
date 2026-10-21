@@ -5,8 +5,11 @@ Junior full-stack developer based in Vienna.
 ### Currently
 
 - Building [pickup.moe](https://pickup.moe), a full-stack web app with Spring Boot, React and PostgreSQL
-- Working on [wlcli](https://github.com/Oqaan/wlcli), real-time Vienna public transport departures in the terminal, written in Go
-- Learning Go and going deeper across backend, frontend and databases
+- Working on [atomizr](https://github.com/Oqaan/atomizr), a Go TUI that picks today's fragrance based on weather, occasion and rotation
+
+### Recently shipped
+
+- [wlcli](https://github.com/Oqaan/wlcli), a Go CLI for real-time Vienna public transport departures
 
 ### Tech
 
@@ -15,5 +18,5 @@ Junior full-stack developer based in Vienna.
 
 ---
 
-> *"Loyaulte me lie."*  
-> Richard III, King of England
+> *"The lyf so short, the craft so long to lerne."*<br>
+> Geoffrey Chaucer, *The Parlement of Foules*
