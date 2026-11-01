@@ -5,7 +5,7 @@ Junior full-stack developer based in Vienna.
 ### Currently
 
 - Building [pickup.moe](https://pickup.moe), a full-stack web app with Spring Boot, React and PostgreSQL
-- Working on [atomizr](https://github.com/Oqaan/atomizr), a Go TUI that picks today's fragrance based on weather, occasion and rotation
+- Working on [rkvd](https://github.com/Oqaan/rkvd), a Redis-compatible key-value server written from scratch in Go
 
 ### Recently shipped
 
